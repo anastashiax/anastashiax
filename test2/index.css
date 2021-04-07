@@ -1,0 +1,2131 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: 'Oswald',sans-serif;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.index_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3779px;
+	font-family: 'Oswald',sans-serif;
+	background-color: rgba(230,235,239,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: 'Oswald',sans-serif;
+}
+.Path_2523_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_2523 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 139.879px;
+	left: 0px;
+	top: -5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.CARDS_Class {
+	position: absolute;
+	width: 1919px;
+	height: 808px;
+	left: -26px;
+	top: 1060px;
+	overflow: visible;
+}
+.Slider_Class {
+	position: absolute;
+	width: 1214px;
+	height: 506.714px;
+	left: 353px;
+	top: 513.786px;
+	overflow: visible;
+}
+.X_bg_Class {
+	transform: translate(-348px, -461.786px) matrix(1,0,0,1,1105.7136,475.9512) rotate(30deg);
+	transform-origin: center;
+	position: absolute;
+	width: 77.401px;
+	height: 77.401px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.x_Class {
+	fill: rgba(241,204,248,1);
+}
+.x {
+	overflow: visible;
+	position: absolute;
+	width: 63.197px;
+	height: 63.197px;
+	transform: translate(1893.537px, 889.636px) matrix(1,0,0,1,-2044.0522,164.0723) rotate(165deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.ID01_Class {
+	position: absolute;
+	width: 1214px;
+	height: 205.5px;
+	left: 0px;
+	top: 301.214px;
+	overflow: visible;
+}
+.Shadow_n_Class {
+	opacity: 0.4;
+	fill: url(#Shadow_n);
+}
+.Shadow_n {
+	position: absolute;
+	overflow: visible;
+	width: 1214px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+.Specs_Class {
+	position: absolute;
+	width: 490px;
+	height: 149.5px;
+	left: 362px;
+	top: 56px;
+	overflow: visible;
+}
+.Collective_Apprenticeships_Class {
+	left: 0px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 491px;
+	white-space: nowrap;
+	line-height: 54px;
+	margin-top: -6px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.Play_iterated_games_Class {
+	left: 164px;
+	top: 82px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Roboto, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(41,47,51,1);
+}
+.Specs_r_Class {
+	position: absolute;
+	width: 271px;
+	height: 21.5px;
+	left: 127px;
+	top: 128px;
+	overflow: visible;
+}
+.piano_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.code_Class {
+	left: 101px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.investing_Class {
+	left: 191px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Dividers_Class {
+	opacity: 0.3;
+	position: absolute;
+	width: 101px;
+	height: 18px;
+	left: 69.5px;
+	top: 3.5px;
+	overflow: visible;
+}
+.Line_2_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 18px;
+	left: 101px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Licenca_Class {
+	position: absolute;
+	width: 156px;
+	height: 22px;
+	left: 167px;
+	top: 0px;
+	overflow: visible;
+}
+.anaz_playground_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Nav_Class {
+	position: absolute;
+	width: 779px;
+	height: 36px;
+	left: 218px;
+	top: 428.214px;
+	overflow: visible;
+}
+.btn_next_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 743px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_28_Class {
+	fill: rgba(238,255,0,1);
+}
+.Ellipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_small_Class {
+	fill: rgba(41,47,51,1);
+}
+.arrow_small {
+	overflow: visible;
+	position: absolute;
+	width: 7.231px;
+	height: 8.45px;
+	transform: translate(0.121px, 0.258px) matrix(1,0,0,1,15.3038,14.1866) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.btn_prev_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_27_Class {
+	fill: rgba(238,255,0,1);
+}
+.Ellipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_small__Class {
+	fill: rgba(0,0,0,1);
+}
+.arrow_small_ {
+	overflow: visible;
+	position: absolute;
+	width: 7.231px;
+	height: 8.45px;
+	left: 13.304px;
+	top: 14.444px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Sales_promotion_Class {
+	position: absolute;
+	width: 1430.121px;
+	height: 665.668px;
+	left: 281px;
+	top: 1174.938px;
+	overflow: visible;
+}
+.X_bg__Class {
+	position: absolute;
+	width: 1430.121px;
+	height: 665.668px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.x__Class {
+	fill: rgba(238,255,0,1);
+}
+.x_ {
+	overflow: visible;
+	position: absolute;
+	width: 246.547px;
+	height: 246.547px;
+	transform: translate(-870px, -1023.938px) matrix(1,0,0,1,2008.4534,1069.0593) rotate(120deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.x_ba_Class {
+	fill: rgba(238,255,0,1);
+}
+.x_ba {
+	overflow: visible;
+	position: absolute;
+	width: 62px;
+	height: 62px;
+	transform: translate(-870px, -1023.938px) matrix(1,0,0,1,870,1627.606) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.x_bb_Class {
+	fill: rgba(238,255,0,1);
+}
+.x_bb {
+	overflow: visible;
+	position: absolute;
+	width: 126.665px;
+	height: 126.665px;
+	transform: translate(-870px, -1023.938px) matrix(1,0,0,1,1154.394,1084) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Summaries_Notes__Reviews_Class {
+	left: 430px;
+	top: 0.062px;
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(238,255,0,1);
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+}
+.Product_Class {
+	position: absolute;
+	width: 279px;
+	height: 445px;
+	left: 393px;
+	top: 159.062px;
+	overflow: visible;
+}
+.Product_Class:hover {
+	cursor: pointer;
+	opacity: 1;
+	transform: scale(1.05);
+	transition: .5s all ease;
+	z-index: 400;
+}
+.bg_
+.bg_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 444px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_bf_Class {
+	fill: rgba(230,235,239,1);
+}
+.bg_bf {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 276.697px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_Class {
+	position: absolute;
+	width: 279px;
+	height: 279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.NASSIM_TALEB_Class {
+	left: 28px;
+	top: 291.731px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 64px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_Class {
+	display: none;
+	left: 28px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 36px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Product_bj_Class {
+	position: absolute;
+	width: 279px;
+	height: 445px;
+	left: 692px;
+	top: 159.062px;
+	overflow: visible;
+}
+.Product_bj_Class:hover {
+	cursor: pointer;
+	opacity: 1;
+	transform: scale(1.05);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_bk_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_bk {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 444px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_bl_Class {
+	fill: rgba(230,235,239,1);
+}
+.bg_bl {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 276.697px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_bm_Class {
+	position: absolute;
+	width: 279px;
+	height: 279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.RAY_DALIO_Class {
+	left: 28px;
+	top: 291.731px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 64px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_bo_Class {
+	display: none;
+	left: 28px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 36px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Product_bp_Class {
+	position: absolute;
+	width: 279px;
+	height: 445px;
+	left: 991px;
+	top: 159.062px;
+	overflow: visible;
+}
+.Product_bp_Class:hover {
+	cursor: pointer;
+	opacity: 1;
+	transform: scale(1.05);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_bq_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_bq {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 444px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_br_Class {
+	fill: rgba(230,235,239,1);
+}
+.bg_br {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 276.697px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_bs_Class {
+	position: absolute;
+	width: 279px;
+	height: 279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.NASSIM_TALEB_bt_Class {
+	left: 28px;
+	top: 291.731px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 64px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_bu_Class {
+	display: none;
+	left: 28px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 36px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.badge__Class {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 585px;
+	top: 163.062px;
+	display: none;
+	overflow: visible;
+}
+.Ellipse_32_Class {
+	opacity: 0.06;
+	fill: rgba(41,47,51,1);
+}
+.Ellipse_32 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+.ID95_Class {
+	left: 15px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Bahnschrift, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(41,47,51,1);
+}
+.badge_earlybird_Class {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1182px;
+	top: 163.062px;
+	display: none;
+	overflow: visible;
+}
+.Ellipse_32_bz_Class {
+	opacity: 0.06;
+	fill: rgba(41,47,51,1);
+}
+.Ellipse_32_bz {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2467_Class {
+	fill: rgba(41,47,51,1);
+}
+.Path_2467 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 23.983px;
+	left: 19px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Product_b_Class {
+	position: absolute;
+	width: 279px;
+	height: 445px;
+	left: 94px;
+	top: 159.062px;
+	overflow: visible;
+}
+.Product_b_Class:hover {
+	cursor: pointer;
+	opacity: 1;
+	transform: scale(1.05);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_b_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_b {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 444px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_ca_Class {
+	fill: rgba(230,235,239,1);
+}
+.bg_ca {
+	overflow: visible;
+	position: absolute;
+	width: 279px;
+	height: 276.697px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_b_Class {
+	position: absolute;
+	width: 279px;
+	height: 279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.NAVAL_RAVIKANT_Class {
+	left: 28px;
+	top: 291.731px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 64px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_b_Class {
+	display: none;
+	left: 28px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 36px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Wholesale_Class {
+	position: absolute;
+	width: 1216px;
+	height: 735px;
+	left: 105px;
+	top: 2067px;
+	overflow: visible;
+}
+.Rectangle_24_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 846px;
+	height: 735px;
+	left: 0px;
+	top: 0px;
+}
+.Video_player_Class {
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 143px;
+	top: 287px;
+	overflow: visible;
+}
+.Container {
+	position: relative;
+	width: 100%;
+	padding-top: 56.25%; /* 16:9 Aspect Ratio */
+	top: 287px;
+}
+
+.iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+.Join_our_benefits_club_Class {
+	left: 920px;
+	top: 287px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 116px;
+	line-height: 54px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+}
+.Header_Class {
+	position: absolute;
+	width: 130.5px;
+	height: 974.5px;
+	left: 1693.5px;
+	top: 90.5px;
+	overflow: visible;
+}
+.Pagination_Class {
+	position: absolute;
+	width: 119px;
+	height: 258px;
+	left: 11.5px;
+	top: 716.5px;
+	overflow: visible;
+}
+.NAZ_Class {
+	left: 81px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.A_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	line-height: 183px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 174px;
+	color: rgba(41,47,51,1);
+}
+.Line_6_Class {
+	opacity: 0.3;
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 40	px;
+	left: 15px;
+	top: -30px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Header_ci_Class {
+	position: absolute;
+	width: 1920px;
+	height: 252px;
+	left: 0px;
+	top: -33px;
+	overflow: visible;
+}
+.Line_6_cj_Class {
+	opacity: 0.3;
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_cj {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 18px;
+	left: 1693.5px;
+	top: 111.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.btn__Class {
+	position: absolute;
+	width: 94px;
+	height: 36px;
+	left: 1713px;
+	top: 103px;
+	overflow: visible;
+}
+.Login_Class {
+	left: 0px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family:'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+button {
+	left: -10px;
+	border: 0;
+	background: none;
+	text-transform: uppercase;
+	color: #4361ee;
+	line-height: 18px;
+	margin-top: -14px;
+	font-family:'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;	position: relative;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+	outline: none;
+	padding: 13px 20px;
+	box-sizing: border-box;
+}
+
+button::before, button::after {
+	box-sizing: inherit;
+	position: absolute;
+	content: '';
+	border: 2px solid transparent;
+	width: 0;
+	height: 0;
+}
+button::after {
+	bottom: 0;
+	right: 0;
+}
+button::before {
+	top: 0;
+	left: 0;
+}
+button:hover::before, button:hover::after {
+	width: 100%;
+	height: 100%;
+}
+
+button:hover::before {
+	border-top-color: #4361ee;
+	border-right-color: #4361ee;
+	transition: width 0.3s ease-out, height 0.3s ease-out 0.3s;
+}
+button:hover::after {
+	border-bottom-color: #4361ee;
+	border-left-color: #4361ee;
+	transition: border-color 0s ease-out 0.6s, width 0.3s ease-out 0.6s, height 0.3s ease-out 1s;
+}
+.img_cm_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 58px;
+	top: 0px;
+	overflow: visible;
+}
+.Promotion_Class {
+	position: absolute;
+	width: 1920px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_28_Class {
+	fill: rgba(238,255,0,1);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+._2021_anastasia_aurelia_Class {
+	opacity: 0.72;
+	left: 842px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Menu_01_Class {
+	position: absolute;
+	width: 1542.718px;
+	height: 46px;
+	left: 106.282px;
+	top: 97.167px;
+	overflow: visible;
+}
+.btn__cr_Class {
+	position: absolute;
+	width: 188.535px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bg_ACTIVE_Class {
+	fill: rgba(41,47,51,1);
+}
+.bg_ACTIVE {
+	position: absolute;
+	overflow: visible;
+	width: 188.535px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+.features_Class {
+	left: 43.718px;
+	top: 14.833px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.arrow_small_cu_Class {
+	fill: rgba(255,255,255,1);
+}
+.arrow_small_cu {
+	overflow: visible;
+	position: absolute;
+	width: 5.517px;
+	height: 6.447px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,148.0177,20.8561) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.btn__cv_Class {
+	position: absolute;
+	width: 149.662px;
+	height: 46px;
+	left: 1393.056px;
+	top: 0px;
+	overflow: visible;
+}
+.bg_ACTIVE_cw_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_ACTIVE_cw {
+	position: absolute;
+	overflow: visible;
+	width: 149.662px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+.insights_Class {
+	left: 46px;
+	top: 14.667px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.btn__cy_Class {
+	position: absolute;
+	width: 149.662px;
+	height: 46px;
+	left: 1240.056px;
+	top: 0px;
+	overflow: visible;
+}
+.bg_ACTIVE_cz_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_ACTIVE_cz {
+	position: absolute;
+	overflow: visible;
+	width: 149.662px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+.interest_Class {
+	left: 46px;
+	top: 14.667px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Search_Class {
+	position: absolute;
+	width: 583px;
+	height: 52px;
+	left: 669px;
+	top: 200px;
+	overflow: visible;
+}
+.bg_c_Class {
+	fill: rgba(230,235,239,1);
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_c {
+	position: absolute;
+	overflow: visible;
+	width: 583px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+}
+.ico_search_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 541px;
+	top: 18px;
+	overflow: visible;
+}
+.Ellipse_24_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_24 {
+	position: absolute;
+	overflow: visible;
+	width: 14.462px;
+	height: 14.462px;
+	left: 0px;
+	top: 0px;
+}
+.Line_1_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 5.865px;
+	height: 5.865px;
+	left: 11.549px;
+	top: 11.549px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Search___Class {
+	left: 24px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Logo_Class {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 326px;
+	height: 89px;
+	left: 797px;
+	top: 67px;
+	overflow: visible;
+}
+.Path_2520_c_Class {
+	fill: url(#Path_2520_c);
+}
+.Path_2520_c {
+	overflow: visible;
+	position: absolute;
+	width: 21.3px;
+	height: 20.267px;
+	left: 207.367px;
+	top: 13.4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.the_blog_of_anastasiaa_Class {
+	left: 0px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+}
+.ANAZ_Class {
+	left: 108px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	line-height: 54px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Sales_promotion_dc_Class {
+	position: absolute;
+	width: 1737px;
+	height: 748px;
+	left: 105px;
+	top: 2938px;
+	overflow: visible;
+}
+.Product_dd_Class {
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 0px;
+	top: 74.606px;
+	overflow: visible;
+}
+.Product_dd_Class:hover {
+	cursor: pointer;
+	transform: rotate(0deg) scale(1) translateY(-10px);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_de_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_de {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_df_Class {
+	fill: transparent;
+	stroke: rgba(230,235,239,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_df {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 279px;
+	left: 0px;
+	top: 143.394px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_dg_Class {
+	position: absolute;
+	width: 414px;
+	height: 499px;
+	left: 0px;
+	top: 0.394px;
+	overflow: visible;
+}
+.Chef_Master_Kitchen_400W_Class {
+	left: 28px;
+	top: 512.125px;
+	position: absolute;
+	overflow: hidden;
+	width: 357px;
+	height: 31px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_di_Class {
+	left: 28px;
+	top: 558.394px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 19px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.RECENTLY_IN_MY_BOOKBAG_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+}
+.Rectangle_37_Class {
+	fill: rgba(238,255,0,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 10px;
+	left: 222.728px;
+	top: 738px;
+}
+.microeconomics_game_theory_psy_Class {
+	left: 204px;
+	top: 717px;
+	position: absolute;
+	overflow: visible;
+	width: 1345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Product_dm_Class {
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 441px;
+	top: 74.606px;
+	overflow: visible;
+}
+.Product_dm_Class:hover {
+	cursor: pointer;
+	transform: rotate(0deg) scale(1) translateY(-10px);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_dn_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_dn {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_do_Class {
+	fill: transparent;
+	stroke: rgba(230,235,239,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_do {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 279px;
+	left: 0px;
+	top: 143.394px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_dp_Class {
+	position: absolute;
+	width: 414px;
+	height: 499px;
+	left: 0px;
+	top: 0.394px;
+	overflow: visible;
+}
+.Chef_Master_Kitchen_400W_dq_Class {
+	left: 28px;
+	top: 512.125px;
+	position: absolute;
+	overflow: hidden;
+	width: 357px;
+	height: 31px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_dr_Class {
+	left: 28px;
+	top: 558.394px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 19px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Product_ds_Class {
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 882px;
+	top: 74.606px;
+	overflow: visible;
+}
+.Product_ds_Class:hover {
+	cursor: pointer;
+	transform: rotate(0deg) scale(1) translateY(-10px);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_dt_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_dt {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_du_Class {
+	fill: transparent;
+	stroke: rgba(230,235,239,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_du {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 279px;
+	left: 0px;
+	top: 143.394px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_dv_Class {
+	position: absolute;
+	width: 414px;
+	height: 499px;
+	left: 0px;
+	top: 0.394px;
+	overflow: visible;
+}
+.Chef_Master_Kitchen_400W_dw_Class {
+	left: 28px;
+	top: 512.125px;
+	position: absolute;
+	overflow: hidden;
+	width: 357px;
+	height: 31px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_dx_Class {
+	left: 28px;
+	top: 558.394px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 19px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Product_dy_Class {
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 1323px;
+	top: 74.606px;
+	overflow: visible;
+}
+.Product_dy_Class:hover {
+	cursor: pointer;
+	transform: rotate(0deg) scale(1) translateY(-10px);
+	transition: .5s all ease;
+	z-index: 400;
+}
+
+.bg_dz_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_dz {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 597.394px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bg_d_Class {
+	fill: transparent;
+	stroke: rgba(230,235,239,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bg_d {
+	overflow: visible;
+	position: absolute;
+	width: 414px;
+	height: 279px;
+	left: 0px;
+	top: 143.394px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.img_d_Class {
+	position: absolute;
+	width: 414px;
+	height: 499px;
+	left: 0px;
+	top: 0.394px;
+	overflow: visible;
+}
+.Chef_Master_Kitchen_400W_d_Class {
+	left: 28px;
+	top: 512.125px;
+	position: absolute;
+	overflow: hidden;
+	width: 357px;
+	height: 31px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.ID6-Volt_Battery_Operated_Ride_d_Class {
+	left: 28px;
+	top: 558.394px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 19px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.B2B_Class {
+	position: absolute;
+	width: 1669px;
+	height: 735px;
+	left: 146px;
+	top: 2067px;
+	overflow: visible;
+}
+
+.B2B_Class iframe {
+	margin-top: 300px;
+	margin-left: 130px;
+}
+.Rectangle_25_Class {
+	fill: transparent;
+	stroke: rgba(41,47,51,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 846px;
+	height: 735px;
+	left: 823px;
+	top: 0px;
+}
+.welcome_to_the_club_Class {
+	left: 929px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 82px;
+	line-height: 34px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+}
+.bag_Class {
+	fill: rgba(41,47,51,1);
+}
+.bag {
+	overflow: visible;
+	position: absolute;
+	width: 36.412px;
+	height: 41.825px;
+	left: 879.105px;
+	top: 71.351px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID46948_Class {
+	transform: translate(947px, -1746px) matrix(1,0,0,1,307,1946) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 503px;
+	white-space: nowrap;
+	line-height: 183px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 174px;
+	color: rgba(41,47,51,1);
+}
+.Satisfied_Customers_Class {
+	left: 1395px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 49px;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+}
+.latest_video_Class {
+	left: 0px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 169px;
+	line-height: 74px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 62px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+}
+.btn_saznajte_vise_Class {
+	position: absolute;
+	width: 140.757px;
+	height: 22px;
+	left: 881.728px;
+	top: 642px;
+	overflow: visible;
+}
+.Rectangle_8_Class {
+	fill: rgba(238,255,0,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 140.757px;
+	height: 10px;
+	left: 0px;
+	top: 12px;
+}
+.FIND_OUT_MORE_Class {
+	left: 6px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 879px;
+	top: 447px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 140px;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Roboto, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(41,47,51,1);
+}
+.btn_saznajte_vise_ef_Class {
+	position: absolute;
+	width: 220px;
+	height: 45px;
+	left: 549.728px;
+	top: 116px;
+	overflow: visible;
+}
+.Rectangle_8_eg_Class {
+	fill: rgba(238,255,0,1);
+}
+.Rectangle_8_eg {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 10px;
+	left: 18px;
+	top: 30px;
+}
+.more_videos_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(41,47,51,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+.Component_1__1_Class {
+	position: absolute;
+	width: 1320px;
+	height: 523px;
+	left: 330px;
+	top: 258px;
+	overflow: visible;
+}
+.ID1_Class {
+	position: absolute;
+	width: 418px;
+	height: 523px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ID1_Class:hover {
+	transform: perspective(1000px) rotateY(10deg);
+	transition: transform .3s;
+	cursor: pointer;
+}
+.ID2_Class {
+	position: absolute;
+	width: 404px;
+	height: 523px;
+	left: 471px;
+	top: 0px;
+	overflow: visible;
+}
+.ID2_Class:hover {
+	transform: perspective(1000px) rotateY(-5deg);
+	transition: transform .3s;
+	cursor: pointer;
+}
+.ID3_Class {
+	position: absolute;
+	width: 395px;
+	height: 523px;
+	left: 925px;
+	top: 0px;
+	overflow: visible;
+}
+.ID3_Class:hover {
+	transform: perspective(1000px) rotateY(-10deg);
+	transition: transform .3s;
+	cursor: pointer;
+}
+.btn_saznajte_vise_em_Class {
+	position: absolute;
+	width: 128px;
+	height: 30px;
+	left: 905.728px;
+	top: 1793px;
+	overflow: visible;
+}
+.Rectangle_8_en_Class {
+	fill: rgba(238,255,0,1);
+}
+.Rectangle_8_en {
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 10px;
+	left: 7px;
+	top: 20px;
+}
+.FIND_OUT_MORE_eo_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Oswald, 'Oswald',sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
